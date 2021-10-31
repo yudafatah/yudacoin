@@ -1,0 +1,2 @@
+# yudacoin
+Digital currency
