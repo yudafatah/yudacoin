@@ -23,7 +23,7 @@ namespace Yc.RSA
 
             return signature;
         }
-
+// test
         public static bool Verify(string pubKey, string originalMsg, string signedMsg)
         {
             var address = BitcoinAddress.Create(pubKey, Network.Main);
